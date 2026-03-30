@@ -9,4 +9,4 @@ const nextConfig = {
   serverExternalPackages: ['winston', 'winston-daily-rotate-file'],
 }
 
-export default nextConfig
+export default nextConfig;
